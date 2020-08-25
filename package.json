@@ -1,10 +1,10 @@
 {
 
-  "name": "Answer FM",
+  "name": "Example",
 
-  "description": "Searching for presenters! Head on discord.io/answer.fm",
+  "description": "Example",
 
-  "version": "0.0.1",
+  "version": "0.0.0",
 
   "main": "bot.js",
 
